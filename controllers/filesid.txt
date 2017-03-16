@@ -1,0 +1,4 @@
+this is third file for third senario
+making some chhanges
+making changes for second commit 
+making changes for third commit
